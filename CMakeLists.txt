@@ -12,4 +12,5 @@ add_executable(design_patterns
         main.cpp
         creational-patterns/builder/car_builder.cpp
         creational-patterns/singleton/singleton.cpp
-        )
+        creational-patterns/prototype/shape.cpp
+        creational-patterns/prototype/shape.h creational-patterns/factoryMethod/phone.cpp creational-patterns/factoryMethod/phone.h)
